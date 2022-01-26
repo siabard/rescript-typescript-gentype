@@ -1,0 +1,10 @@
+.DS_Store
+/dist/
+/dist-ssr/
+*.local
+*.bs.js
+*.gen.tsx
+/node_modules/
+/lib/
+.bsb.lock
+.merlin
